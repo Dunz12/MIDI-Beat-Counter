@@ -4,7 +4,7 @@ I'm going to try and think up a few ideas for an Arduino powered MIDI beat count
 
 Midi input of the Arduino to trigger LED 7 segment.
 
-I had a wild that maybe the MIDI output could be a random midi generator as it isn't needed for the clock.
+I had a wild idea that maybe the MIDI output could be a random midi generator as it isn't needed for the clock.
 
 This is my first project so thanks in advance to Github and the community. And my apologies for any silly mistakes along the way!
 
